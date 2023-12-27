@@ -1,0 +1,23 @@
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.exe
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.pdb
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Form1.resources
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Properties.Resources.resources
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.csproj.GenerateResource.Cache
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.exe
+D:\Applications\My Applications\f_projects\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.pdb
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.exe
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.pdb
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.exe
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.pdb
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Form1.resources
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Properties.Resources.resources
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.csproj.GenerateResource.Cache
+E:\Projects\Farkhondeh Projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.csprojResolveAssemblyReference.cache
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.exe
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.pdb
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.exe
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\bin\Debug\DiseasePrediction.pdb
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.csprojResolveAssemblyReference.cache
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Form1.resources
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.Properties.Resources.resources
+D:\Applications\My Applications\f_projects\finl project\DiseasePrediction\DiseasePrediction\obj\x86\Debug\DiseasePrediction.csproj.GenerateResource.Cache
